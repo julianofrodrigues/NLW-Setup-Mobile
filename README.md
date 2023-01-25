@@ -1,4 +1,4 @@
-<h1 align="center"> 🥅 NLW-Setup-Mobile </h1>
+<h1 align="center"> NLW-Setup-Mobile </h1>
 
 # Project Summary
 Mobile from the NLW Setup<br>
@@ -38,8 +38,11 @@ $ expo start
 - ``JavaScript``
 - ``TypeScript``
 - ``React-Native``
-- ``React-Navigation``
-- ``Native Base``
+- ``Native Wind``
+- ``TailWind CSS``
+- ``React Native SVG``
 - ``Vector Icons``
+- ``Day Js``
+
 
 
