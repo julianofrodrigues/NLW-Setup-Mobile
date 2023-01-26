@@ -44,6 +44,10 @@ $ expo start
 - ``Vector Icons``
 - ``Day Js``
 - ``React Navigation``
+- ``Axios``
+- ``CLSX``
+
+
 
 
 
