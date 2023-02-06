@@ -1,9 +1,9 @@
-<h1 align="center"> NLW-Setup-Mobile </h1>
+<h1 align="center"> 📅 NLW-Setup-Mobile </h1>
 
 # Project Summary
-Mobile from the NLW Setup<br>
-The back-end is at this repository: <br>
-The front-end project is in this other repository:
+Mobile project by nlw setup, which consists of creating a habit sheet using a smartphone.<br>
+The back-end is at this repository: https://github.com/julianofrodrigues/NLW-Setup-BackEnd <br>
+The front-end project is in this other repository: https://github.com/julianofrodrigues/NLW-Setup-FrontEnd
 
 ## Application images below 
 <details> <summary> Click Here to see screenshots </summary>
@@ -20,7 +20,7 @@ The front-end project is in this other repository:
 To try it is very simple:<br>
 -Clone the repository
 ```bash
-$ git clone 
+$ git clone https://github.com/julianofrodrigues/NLW-Setup-Mobile
 ```
 -In the context put your google id in the client id, and in service put your backend ip<br>
 -Download the libraries
